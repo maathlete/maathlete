@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maathlete, otherwise known as Alex.
-- 👀 I’m interested in: deep learning, algorithms, NLP, and computational mathematics
+- 👀 I’m interested in: deep learning, reinforcement learning, differential geometry,
 - 🌱 I’m currently learning: reinforcement learning!
 - 💞️ I’m looking to collaborate on deep learning or NLP projects!
 - 📫 How to reach me: alexandra.rotondo@ucdenver.edu
